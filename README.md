@@ -1,2 +1,2 @@
-# Lets-Split
-Split Management System which can be used among friends,colleagues or relative for asking cut(Money Share)
+# Money-Manager-clone
+Money Management System which can be used to manager your weekly or monthly budget.
